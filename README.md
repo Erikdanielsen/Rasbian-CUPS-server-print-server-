@@ -1,9 +1,9 @@
-# Rasbian-CUPS-server-print-server
+<h1> Rasbian-CUPS-server-print-server </h1>
 
-## Setting up the print server
+<h2> Setting up the print server </h2>
 - URL: https://pimylifeup.com/raspberry-pi-print-server/ 
 
-## Adding printer to Windows
+<h2> Adding printer to Windows </h2>
 <h3> 1, Open windows explorer </h3>
 
 <h3> 2, Type in the following in the address field: \\\ip-adress </h3>
@@ -20,4 +20,10 @@
 <h3> 6, On the "install from disk", click on "browse" </h3>
 <a href="http://s44.photobucket.com/user/erik-danielsen/media/browse-install-from-disk_zps7pl7v1lm.png.html" target="_blank"><img src="http://i44.photobucket.com/albums/f48/erik-danielsen/browse-install-from-disk_zps7pl7v1lm.png" border="0" alt=" photo browse-install-from-disk_zps7pl7v1lm.png"/></a>
 
-## Adding printer to linux
+<h3> 7, When promted for "Install From Disk" click on "Browse" </h3>
+<a href="http://s44.photobucket.com/user/erik-danielsen/media/browse-install-from-disk_zps7pl7v1lm.png.html" target="_blank"><img src="http://i44.photobucket.com/albums/f48/erik-danielsen/browse-install-from-disk_zps7pl7v1lm.png" border="0" alt=" photo browse-install-from-disk_zps7pl7v1lm.png"/></a>
+
+<h3> Windows explorer will open, browse to DROPBOX, then open the following file location: <br> D:\Dropbox\IKT\Operating systems\Rasbian CUPS print server\Windows\MF8500CMFDriversV2085W64ukEN\DRIVERS\uk_eng\x64 </h3>
+<a href="http://s44.photobucket.com/user/erik-danielsen/media/MF8580-driver_zpsdokooit8.png.html" target="_blank"><img src="http://i44.photobucket.com/albums/f48/erik-danielsen/MF8580-driver_zpsdokooit8.png" border="0" alt=" photo MF8580-driver_zpsdokooit8.png"/></a>
+
+<h2> Adding printer to linux </h2>
