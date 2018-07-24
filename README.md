@@ -26,3 +26,4 @@
 <h3> 8, Select the file named "CNP60KA64.inf - now the printer should install </h3>
 
 <h2> Adding printer to linux </h2>
+<--- Will come when finished ---/>
